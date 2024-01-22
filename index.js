@@ -6,6 +6,3 @@ sayName = () =>{
     console.log('my name is '+name)
 }
 
-isAbove18 = () =>{
-    console.log("is above 18 years")
-}
